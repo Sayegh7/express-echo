@@ -2,7 +2,7 @@
 
 
 [![npm
-version](https://badge.fury.io/js/express-echo.svg)](https://badge.fury.io/js/ng-form-generator)
+version](https://badge.fury.io/js/express-echo.svg)](https://badge.fury.io/js/express-echo)
 
 A server that echoes any request it gets (prints it to console and sends it back
 as a response)
