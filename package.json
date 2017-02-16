@@ -1,0 +1,29 @@
+{
+    "name": "express-echo",
+    "version": "0.0.0",
+    "description": "A server that echos back all requests",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "express-echo": "bin/index.js"
+    },
+    "keywords": [
+        "sayegh",
+        "echo",
+        "server",
+        "express"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sayegh7/breakout-timeline"
+    },
+    "preferGlobal": "true",
+    "author": "Ahmed El Sayegh",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.16.1",
+        "express": "^4.14.1"
+    }
+}
